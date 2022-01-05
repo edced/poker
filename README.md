@@ -1,1 +1,1 @@
-# poker
+Just me trying to make a poker game
